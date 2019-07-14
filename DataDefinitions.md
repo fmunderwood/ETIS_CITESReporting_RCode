@@ -1,5 +1,5 @@
 ﻿## Definitions and data
-An expanded version of this is given in the document [Notes_Rscripts_ETIS_analysis CITES_CoP18.pdf]( Notes_RScripts_ETIS_analysis_CITES_CoP18.pdf)
+An expanded version of this is given in the document [Notes_CoP18.pdf]( Notes_CoP18.pdf)
 
 The ETIS data are held in a PostgreSQL relational database.
 
