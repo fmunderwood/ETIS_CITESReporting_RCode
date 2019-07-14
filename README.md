@@ -9,7 +9,7 @@ This repository contains the R scripts used to analyse data from the Elephant Tr
 ETIS, managed by TRAFFIC International,  was originally mandated by CITES to track levels and trends in the illegal trade in elephant ivory and other elephant products under CITES resolution Conf. 10.10 to inform decision making on elephants. 
 ETIS comprises reported records of seizures and subsidiary data on covariates related to the illegal ivory trade. ETIS is required to produce reports to CITES Standing Committees and CoPs. 
 
-## Version v.CoP18
+## Version v.CoP18    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3334809.svg)](https://doi.org/10.5281/zenodo.3334809)
 
 Version CoP18 of this repository contains the R scripts used to produce the analysis of the ETIS data for a report – [Milliken et al (2018)](https://cites.org/sites/default/files/eng/cop/18/doc/E-CoP18-069-03-R1.pdf) - to the 18th meeting of the CITES Conference of the Parties (CoP18).  
 
