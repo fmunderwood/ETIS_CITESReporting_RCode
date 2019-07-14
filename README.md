@@ -42,7 +42,7 @@ There are four principle stages comprising an analysis of the ETIS data for a Co
 3.	Deriving the Weight Index (WI) to produce smoothed relative trends in the quantitye of illegal ivory in trade
 4.	Undertaking a cluster analysis to comparatively assess the role of countries in the illegal ivory trade for a specific time period. 
 
-The work in each of these stages consists of a series of steps that can be generically described as data preparation, statistical modelling and the production of model outputs. The figure below shows the main steps in each of the first three stages and how they link together.  The document [Notes_Rscripts_ETIS_analysis_CITES_CoP18.pdf](Notes_RScripts_ETIS_analysis_CITES_CoP18.pdf) describes how different R scripts fit together.
+The work in each of these stages consists of a series of steps that can be generically described as data preparation, statistical modelling and the production of model outputs. The figure below shows the main steps in each of the first three stages and how they link together.  The document [Notes_CoP18.pdf](Notes_CoP18.pdf) describes how different R scripts fit together.
 
 ![Figure](Additional/WorkFlow.PNG "R flow")
 
